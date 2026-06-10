@@ -50,6 +50,13 @@ de los siglos.
    más pesado, cargado de una nostalgia dolorosa. No era una simple coincidencia; esa melodía era un 
    secreto familiar, una canción de cuna que su hermana, Elena, tarareaba siempre que tenía miedo.
    
+    — ¿De dónde has sacado esa melodía? —preguntó Sarah, dando un paso hacia el joven. La firmeza en 
+      su voz flaqueó, reemplazada por un temblor imperceptible pero profundo.
+    
+    El chico no respondió de inmediato. Dejó de tararear y, lentamente, levantó la mirada. Sus ojos, 
+    antes opacos y desprovistos de vida, reflejaron por una milésima de segundo un destello de terror 
+    absoluto, el mismo miedo que Elena sufría durante las tormentas de su infancia.
+
 612 ####################################
 #####                              #####
 #####     Notas                    #####
@@ -72,7 +79,7 @@ Fila de fin, máximo: 610
  1 - Carlos Llatser - Jefe de equipo
  2 - Jose A. Genao 
  3 - Manuel Fernández
- 4 - Nombre Apellido
+ 4 - ShinobiDev79
  5 - Nombre Apellido
  6 - Nombre Apellido
  7 - Nombre Apellido

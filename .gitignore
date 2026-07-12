@@ -1,0 +1,197 @@
+# ------------------------------------------------------------------------------
+# ARCHIVOS DEL SISTEMA OPERATIVO (Archivos basura generados por el SO)
+# ------------------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+*.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ------------------------------------------------------------------------------
+# ENTORNOS DE DESARROLLO (IDEs y Editores de Código)
+# ------------------------------------------------------------------------------
+# Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# JetBrains (IntelliJ, WebStorm, PyCharm, PhpStorm, Android Studio, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse / NetBeans
+.metadata/
+.classpath
+.project
+.settings/
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Vim / Emacs
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list/
+tramp
+.\#*
+
+# ------------------------------------------------------------------------------
+# ARCHIVOS DE CONFIGURACIÓN, SECRETOS Y ENTORNO (¡NUNCA SUBIR A GIT!)
+# ------------------------------------------------------------------------------
+.env
+.env.accounts
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.secret
+*.pem
+*.key
+*.cert
+*.pfx
+*.p12
+credentials.json
+config/jwt/
+
+# ------------------------------------------------------------------------------
+# LOGS, TEMPORALES Y BASES DE DATOS
+# ------------------------------------------------------------------------------
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+*.tmp
+*.temp
+/tmp/
+
+# ------------------------------------------------------------------------------
+# NODE.JS / JAVASCRIPT / TYPESCRIPT
+# ------------------------------------------------------------------------------
+node_modules/
+jspm_packages/
+.npm/
+.eslintcache
+.stylelintcache
+.prettiercache
+.tsbuildinfo
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Directorios de producción frontend (Svelte, React, Vue, Angular, etc.)
+dist/
+build/
+.next/
+.nuxt/
+.out/
+.cache/
+.parcel-cache/
+
+# ------------------------------------------------------------------------------
+# PYTHON
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.htmlcov/
+.tox/
+.nosexy/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+.poetry.lock
+
+# ------------------------------------------------------------------------------
+# JAVA / MAVEN / GRADLE
+# ------------------------------------------------------------------------------
+*.class
+*.war
+*.ear
+*.nar
+target/
+.gradle/
+/build/
+!gradle-wrapper.jar
+
+# ------------------------------------------------------------------------------
+# PHP / COMPOSER / LARAVEL
+# ------------------------------------------------------------------------------
+vendor/
+/bootstrap/cache/
+/storage/*.key
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+.vagrant/
+
+# ------------------------------------------------------------------------------
+# COMPILADOS, BINARIOS Y ARCHIVOS GRANDES
+# ------------------------------------------------------------------------------
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.tar
+*.zip
+*.gz
+*.rar
+*.7z
+*.iso
+*.dmg
